@@ -1,0 +1,124 @@
+{
+  "video": "public/character.mp4",
+  "total_video_frames": 240,
+  "fps": 24.0,
+  "extracted_frames_count": 64,
+  "degrees_per_frame": 5.625,
+  "background_hex": "#e65656",
+  "background_rgb": [
+    230,
+    86,
+    86
+  ],
+  "compass_keyframes": {
+    "RIGHT": {
+      "angle_deg": 0,
+      "video_frame": 70,
+      "index": 0
+    },
+    "DOWN_RIGHT": {
+      "angle_deg": 45,
+      "video_frame": 94,
+      "index": 8
+    },
+    "DOWN": {
+      "angle_deg": 90,
+      "video_frame": 124,
+      "index": 16
+    },
+    "DOWN_LEFT": {
+      "angle_deg": 135,
+      "video_frame": 152,
+      "index": 24
+    },
+    "LEFT": {
+      "angle_deg": 180,
+      "video_frame": 186,
+      "index": 32
+    },
+    "UP_LEFT": {
+      "angle_deg": 225,
+      "video_frame": 204,
+      "index": 40
+    },
+    "UP": {
+      "angle_deg": 270,
+      "video_frame": 46,
+      "index": 48
+    },
+    "UP_RIGHT": {
+      "angle_deg": 315,
+      "video_frame": 56,
+      "index": 56
+    },
+    "CENTER": {
+      "video_frame": 232
+    }
+  },
+  "frame_indices_64": [
+    70,
+    73,
+    76,
+    79,
+    82,
+    85,
+    88,
+    91,
+    94,
+    98,
+    101,
+    105,
+    109,
+    113,
+    117,
+    121,
+    124,
+    127,
+    131,
+    134,
+    138,
+    141,
+    145,
+    148,
+    152,
+    156,
+    160,
+    165,
+    169,
+    173,
+    177,
+    182,
+    186,
+    188,
+    190,
+    193,
+    195,
+    197,
+    200,
+    202,
+    204,
+    206,
+    208,
+    210,
+    212,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    50,
+    51,
+    52,
+    54,
+    55,
+    56,
+    58,
+    60,
+    61,
+    63,
+    65,
+    67,
+    68
+  ]
+}

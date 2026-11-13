@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+  width: 100%;
+  max-width: none;
+  min-height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: block;
+  border: 0;
+  text-align: initial;
+}
